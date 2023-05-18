@@ -1,0 +1,4 @@
+langchain
+sherpa-onnx
+transformers
+soundfile>=0.12
